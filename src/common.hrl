@@ -1,0 +1,2 @@
+-define(APP, rocks_couch).
+-define(APP_STR, "rocks_couch").

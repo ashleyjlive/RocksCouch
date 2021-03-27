@@ -1,0 +1,4 @@
+[{<<"debug">>,
+  {git,"https://github.com/ashleyjlive/debug.git",
+       {ref,"71ffc719092122ca16f953ef6836425afae61ed0"}},
+  0}].
